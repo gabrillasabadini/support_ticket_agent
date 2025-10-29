@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-google-genai
+crewai
+crewai-tools
+pandas
+numpy
+requests
+streamlit
